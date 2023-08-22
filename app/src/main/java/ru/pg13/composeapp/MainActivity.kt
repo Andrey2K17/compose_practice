@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         //My changes from test1 branch
+        //My changes from test2 branch
         setContent {
             ComposeAppTheme {
                 val systemUiController = rememberSystemUiController()
