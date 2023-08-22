@@ -21,6 +21,7 @@ import ru.pg13.composeapp.ui.theme.ComposeAppTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        //My changes from test1 branch
         setContent {
             ComposeAppTheme {
                 val systemUiController = rememberSystemUiController()
