@@ -19,6 +19,7 @@ import ru.pg13.composeapp.ui.theme.ComposeAppTheme
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
+    //My change in main branch
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         //My changes from test1 branch
