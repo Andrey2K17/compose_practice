@@ -19,7 +19,7 @@ import ru.pg13.composeapp.ui.theme.ComposeAppTheme
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
-    //My change in main branch
+    //My change in main branch second
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
